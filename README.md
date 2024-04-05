@@ -28,10 +28,10 @@ Substitua `seu_token_aqui` pelo token do seu bot do Discord.
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/seu-usuario/seu-repositorio>
+$ git clone https://github.com/Rodrigoo0m/SearchString-Discord-BOT
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd seu-repositorio
+$ cd SearchString-Discord-BOT
 
 # Instale as dependências
 $ pip install -r requirements.txt
